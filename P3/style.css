@@ -1,0 +1,36 @@
+.container {
+  width: 500px;
+  background-color: aliceblue;
+  margin: 4px auto;
+  font-family: "monospace;";
+  text-align: center;
+  border-radius: 20px;
+  /* border-radius: 10px 15px 20px 25px; */
+  /* Baca dari kiri */
+  /* border: 2px solid black; */
+  /* border: 1px solid black; */
+}
+
+p1 {
+  margin: 10px auto;
+  padding: 2%;
+}
+
+h1 {
+  color: black;
+}
+
+ol li {
+  color: black;
+  font-weight: 900;
+}
+
+.container1 {
+  width: 500px;
+  background-color: aliceblue;
+  margin: 4px aSuto;
+  font-family: "monospace;";
+  text-align: center;
+  border-radius: 20px;
+  font-style: oblique;
+}
